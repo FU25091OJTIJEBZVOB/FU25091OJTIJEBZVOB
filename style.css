@@ -22,7 +22,7 @@ h1{
 }
 h2{
   font-size: 2em;
-  color: rgb(86, 20, 10);
+  color: white;
 }
 h3{
   font-size: 2em;
@@ -74,19 +74,19 @@ cursor: pointer;
 }
 summary{
   font-size: 3em;
-  color: rgb(86, 20, 10);
+  color: white;
   font-family: 'Courier New', Courier, monospace;
     max-width: 100%;
 }
 li{
   font-size: 2em;
-  color: rgb(86, 20, 10);
+  color: white;
   font-family: 'Courier New', Courier, monospace;
     max-width: 100%;
 }
 p{
   font-size: 2em;
-  color:rgb(86, 20, 10);
+  color:white;
   font-family: 'Courier New', Courier, monospace;
 }
 section{
