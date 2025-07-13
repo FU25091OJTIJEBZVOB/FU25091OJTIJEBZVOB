@@ -182,5 +182,5 @@ background-color: black;
 }
 div.logo{
 display: flex;
-max-width: 100%;
+width:min（200px, 100%);
 
