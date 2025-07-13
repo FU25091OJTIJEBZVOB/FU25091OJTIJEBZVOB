@@ -182,5 +182,6 @@ div.logo{
 display: flex;
 max-width: 100%;
 padding-left: 40em;
+    padding-down: auto;
 }
 
