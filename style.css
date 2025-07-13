@@ -80,7 +80,7 @@ summary{
 }
 li{
   font-size: 2em;
-  color: white;
+  color: rgb(255, 255, 255);
   font-family: 'Courier New', Courier, monospace;
     max-width: 100%;
 }
