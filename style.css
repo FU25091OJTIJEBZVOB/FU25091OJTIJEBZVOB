@@ -13,7 +13,8 @@ body {
     }
     div.logo{
         padding-left:o;
-        max-width:100%
+        max-width:100%;
+        padding-right:0;
     }
         
     
