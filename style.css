@@ -22,7 +22,7 @@ h1{
 }
 h2{
   font-size: 2em;
-  color: white;
+  color: rgb(255, 255, 255);
 }
 h3{
   font-size: 2em;
@@ -44,7 +44,7 @@ a.text {
   position: absolute; /*自由に配置する指定*/
  right: 0; /*下寄せの指定*/
   margin: 1em;
-  color:rgb(86, 20, 10);
+  color:rgb(255, 255, 255);
   font-size: 2em;
 }
 .box {
@@ -74,7 +74,7 @@ cursor: pointer;
 }
 summary{
   font-size: 3em;
-  color: white;
+  color: rgb(255, 255, 255);
   font-family: 'Courier New', Courier, monospace;
     max-width: 100%;
 }
@@ -86,7 +86,7 @@ li{
 }
 p{
   font-size: 2em;
-  color:white;
+  color:rgb(255, 255, 255);
   font-family: 'Courier New', Courier, monospace;
 }
 section{
