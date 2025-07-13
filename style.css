@@ -11,14 +11,14 @@ body {
 }
 @media screen and (max-width:767px){
     img {
-        max-width:10%;
+        max-width:80%;
         height:auto;
     }
 }
 @media screen and (max-width:767px){
     body div .logo{
         padding:0 0 0 0;
-        max-width:390px;
+        max-width:200px;
         justify-content:cnter;
          }
 }
