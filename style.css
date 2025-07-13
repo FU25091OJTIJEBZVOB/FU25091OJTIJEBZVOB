@@ -5,12 +5,16 @@ body {
 }
 @media screen and (max-width:767px){
     body {
-        font size:15px;
+        font-size:15px;
     }
     img {
         max-width:100%;
         height:auto;
     }
+    div.logo{
+        padding-left:o;
+    }
+        
     
 }
 h1{
