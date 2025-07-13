@@ -5,7 +5,7 @@ body {
 }
 @media screen and (max-width:767px){
     body {
-        font-size:15px;
+        font-size:20px;
         width:390px;
     }
 }
