@@ -15,11 +15,13 @@ body {
     body div .logo{
         padding:0 0 0 0;
         max-width:390px;
+        justify-content:cnter;
         
     }
     
     a.lop.{
         max-width:80px;
+        justify-content:cnter;
     }
     
         
@@ -184,4 +186,6 @@ background-color: black;
 div.logo{
 display: flex;
 width:min（200px, 100%);
+    justify-content:center;
+}
 
