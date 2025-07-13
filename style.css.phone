@@ -165,10 +165,9 @@ background-color: black;
   border-radius: 20px; 
 }
 .logo{
-  width: 0em;
 display: flex;
 max-width: 100%;
-padding-left: 40em;
+padding-left: auto;
 padding-right: auto;
 }
 }
