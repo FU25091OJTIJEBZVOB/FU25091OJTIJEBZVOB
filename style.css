@@ -183,7 +183,7 @@ background-color: black;
   object-fit: fill;
   border-radius: 20px; 
 }
-div.logo{
+.logo{
 display: flex;
 width:min（200px, 100%);
     justify-content:center;
