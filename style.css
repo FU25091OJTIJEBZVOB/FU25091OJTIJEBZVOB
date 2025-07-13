@@ -6,6 +6,7 @@ display:none; /*非表示*/
 }
 body {
     background-color: rgb(86, 20, 10);
+    max-width: 100%;
 }
 h1{
   font-size: 6vw;
@@ -81,11 +82,13 @@ summary{
   font-size: 3em;
   color: rgb(86, 20, 10);
   font-family: 'Courier New', Courier, monospace;
+    max-width: 100%;
 }
 li{
   font-size: 2em;
   color: rgb(86, 20, 10);
   font-family: 'Courier New', Courier, monospace;
+    max-width: 100%;
 }
 p{
   font-size: 2em;
