@@ -11,8 +11,8 @@ body {
         max-width:100%;
         height:auto;
     }
-    div.logo{
-        padding-left:o;
+    body div .logo{
+        padding:o 20px;
         max-width:390px;
         padding-right:1em;
     }
@@ -20,6 +20,7 @@ body {
     a.lop.{
         max-width:390px;
     }
+    
         
     
 }
