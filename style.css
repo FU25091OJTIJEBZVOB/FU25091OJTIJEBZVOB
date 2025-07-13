@@ -174,7 +174,7 @@ background-color: black;
   object-fit: fill;
   border-radius: 20px; 
 }
-.logo{
+div.logo{
   width: 0em;
 display: flex;
 max-width: 100%;
