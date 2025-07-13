@@ -3,6 +3,8 @@ body {
     color: rgb(255, 255, 255);
     max-width: 100%;
 }
+@media screen and (max-width:767px){
+}
 h1{
   font-size: 6vw;
   margin-left: 20vw;
