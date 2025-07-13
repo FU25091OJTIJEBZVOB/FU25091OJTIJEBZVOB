@@ -45,7 +45,7 @@ a.text {
   position: absolute; /*自由に配置する指定*/
  right: 0; /*下寄せの指定*/
   margin: 1em;
-  color:rgb(255, 255, 255);
+ color: rgb(255, 255, 255);
   font-size: 2em;
 }
 .box {
@@ -90,9 +90,7 @@ p{
   color:rgb(255, 255, 255);
   font-family: 'Courier New', Courier, monospace;
 }
-.text{
-    color: rgb(255, 255, 255);
-}
+
 section{
   max-width: 100%;
   padding-top: 5em;
