@@ -162,7 +162,8 @@ background-color: black;
 .logo{
   width: 0em;
 display: flex;
-padding-left: auto;
+max-width: 100%;
+padding-left: 40em;
 padding-right: auto;
 }
 
