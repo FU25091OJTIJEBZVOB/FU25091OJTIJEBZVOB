@@ -8,25 +8,27 @@ body {
         font-size:15px;
         width:390px;
     }
+}
+@media screen and (max-width:767px){
     img {
         max-width:10%;
         height:auto;
     }
+}
+@media screen and (max-width:767px){
     body div .logo{
         padding:0 0 0 0;
         max-width:390px;
         justify-content:cnter;
-        
-    }
-    
+         }
+}
+    @media screen and (max-width:767px){
     a.lop.{
         max-width:80px;
         justify-content:cnter;
+         }
     }
-    
-        
-    
-}
+
 h1{
   font-size: 6vw;
   margin-left: 20vw;
