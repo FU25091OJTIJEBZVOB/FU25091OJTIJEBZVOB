@@ -4,6 +4,12 @@ body {
     max-width: 100%;
 }
 @media screen and (max-width:767px){
+    body {
+        font size:15px;
+    }
+    img {
+        max-width:100%;
+        height:auto;
 }
 h1{
   font-size: 6vw;
